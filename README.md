@@ -1,6 +1,7 @@
 # COVID19-Africa-Response
 Resources, ideas and infographs around the COVID19 Pandemic
 
+GoogleDoc open for co-writing and brainstorming: https://docs.google.com/document/d/1VrojbQ3B3jSnx1yPCpueJmUynkd3AsjeAnuz0Mw2jFw/
 
 How about we start a call for submissions to collect resources by scientists and makers in Africa and maybe coordinate COVID19-responses by African organisations and influencers?
 - collection of infographics on hygiene  measures to avoid infection by designers and scientists
