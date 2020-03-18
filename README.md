@@ -1,5 +1,7 @@
 # COVID19-Africa-Response
 Resources, ideas and infographs around the COVID19 Pandemic and mitigation strategies in Africa
+License: CC-BY 4.0: COVID19-Africa-Response-Alliance
+
 
 ## Collecting resources 
 GoogleDoc open for co-writing and brainstorming: https://docs.google.com/document/d/1VrojbQ3B3jSnx1yPCpueJmUynkd3AsjeAnuz0Mw2jFw/
